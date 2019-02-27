@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<cidade>
+	<bicicleta>
+		<marca>a</marca>
+		<preco>10</preco>
+		<disponibilidade>sim</disponibilidade>
+	</bicicleta>
+	<bicicleta>
+		<marca>a</marca>
+		<preco>15</preco>
+		<disponibilidade>sim</disponibilidade>
+	</bicicleta>
+	<bicicleta>
+		<marca>a</marca>
+		<preco>20</preco>
+		<disponibilidade>sim</disponibilidade>
+	</bicicleta>
+	<bicicleta>
+		<marca>b</marca>
+		<preco>30</preco>
+		<disponibilidade>sim</disponibilidade>
+	</bicicleta>
+	<bicicleta>
+		<marca>c</marca>
+		<preco>9999</preco>
+		<disponibilidade>sim</disponibilidade>
+	</bicicleta>
+</cidade>

@@ -1,0 +1,17 @@
+#fixed{
+  border: 1px black solid;
+  border-radius:10px;
+  position: fixed;
+  right: 0;
+  margin: 5px;
+  height:95px;
+  width:45px;
+  top:50%;
+  background-color: #0e4999;
+}
+
+#fixed img{
+  margin: 5px;
+  border-radius:10px;
+  height: 35px;
+}

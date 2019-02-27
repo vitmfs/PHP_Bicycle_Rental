@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+}
+
+#middle{
+	position: relative;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+#rent{
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+#middle button{
+	position: relative;
+	width: 100%;
+	max-width: 500px;
+	margin-left: 10px;
+	background-color: orange;
+}
+
+#middle img{
+	margin: 5px;
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+
+}
+
+#bottom{
+}
+
+#top{
+	text-align: center;
+	margin-top: 75px;
+	background: url(../imgs/fundo.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  	background-size: cover;
+}
+
+#top button{
+	margin: 5px;
+	background-color: orange;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h2{
+	font-size: 37px;
+}
+
+h3{
+	font-size: 25px;
+	color: yellow;
+}
+

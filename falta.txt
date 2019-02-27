@@ -1,0 +1,12 @@
+1- introduzir bicicleta
+2- reservar e passar para reservas do cliente
+3- conta admin
+4- opções admin
+5- upload foto e associar bicicleta
+
+#botaoLogin:hover {
+	-ms-transform: scale(1.1); /* IE 9 */
+	-webkit-transform: scale(1.1); /* Safari */
+	transform: scale(1.1);
+
+}

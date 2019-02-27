@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+}
+
+#top{
+	margin: 80px 5px 5px;	
+}
+
+#box li{
+	display: inline;
+	font-size: 30pt;
+	margin-right: 75px;
+}
+
+#box{
+	background-color: orange;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid lightgrey 1px;
+	margin: 20px 0px;
+}
+
+#reservar{
+	position: absolute;
+	left: 90%;
+	width: auto;
+}
+
+h3{
+	text-align: center;
+}
+
+#green{
+	color: green;
+}
+
+#red{
+	color: red;
+}
+
+#btnPesquisa{
+	text-align: center;
+}
+
+#btnPesquisa button{
+	width: auto;
+}
+
+/*#box:hover{
+	transform:scale(0.9);
+}*/
